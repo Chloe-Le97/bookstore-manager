@@ -1,6 +1,6 @@
 # Bookstore Manager
 
-Bookstore Manager is a user-friendly web application that allows users to effectively manage a digital bookstore. It provides functionalities to add new books with details such as title, description, price, and cover image. Users can also update existing book details or remove books from the store. This application streamlines the process of managing a bookstore, making it efficient and easy.
+Bookstore Manager is a user-friendly web application that allows users to effectively manage a digital bookstore. It provides functionalities to add new books with details such as title, description, price, and cover image. Users can also update existing book details or remove books from the store. This application streamlines the process of managing a bookstore, making it efficient and easy. Fully responsive.
 
 ## Technologies Used
 
